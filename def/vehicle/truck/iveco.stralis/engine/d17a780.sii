@@ -37,7 +37,5 @@ accessory_engine_data : d17a780.iveco.stralis.engine
 	no_adblue_power_limit: 0.6
 
 @include "sound.sui"
-
-	overrides[]: "/def/vehicle/truck/volvo.fh_2024/accessory/badge/badge_780.sii"
 }
 }

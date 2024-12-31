@@ -38,6 +38,6 @@ accessory_engine_data : d17a780.iveco.hiway.engine
 
 @include "sound.sui"
 
-	overrides[]: "/def/vehicle/truck/volvo.fh_2024/accessory/badge/badge_780.sii"
+	overrides[]: "/def/vehicle/truck/iveco.hiway/badge/badge_560.sii"
 }
 }
