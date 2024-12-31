@@ -1,0 +1,215 @@
+SiiNunit
+{
+vehicle: .truck
+{
+	accessories[]: .data
+	accessories[]: .hlight
+	accessories[]: .dstep
+	accessories[]: .cab
+	accessories[]: .sunshild
+	accessories[]: .chassis
+	accessories[]: .engine
+	accessories[]: .badge
+	accessories[]: .trans
+	accessories[]: .interior
+	accessories[]: .paintjob
+	accessories[]: .fmirror
+	accessories[]: .smirror
+	accessories[]: .mirrors
+	accessories[]: .dhandle
+	accessories[]: .ftire
+	accessories[]: .fdisc
+	accessories[]: .fhub
+	accessories[]: .fnuts
+	accessories[]: .rtire
+	accessories[]: .rdisc
+	accessories[]: .rhub
+	accessories[]: .rnuts
+	accessories[]: .rtire2
+	accessories[]: .rdisc2
+	accessories[]: .rhub2
+	accessories[]: .rnuts2
+	accessories[]: .steering_w
+	accessories[]: .f_intake_cab
+	accessories[]: .f_wnd_frame
+	accessories[]: .f_intake_bar
+	accessories[]: .f_inlay_cab
+	accessories[]: .f_intake_chs
+	accessories[]: .f_inlay_chs
+	accessories[]: .f_fender
+	accessories[]: .f_badge
+	accessories[]: .r_bumper
+	accessories[]: .r_mudflap
+	accessories[]: .trlr_cables
+}
+
+vehicle_accessory : .data {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/data.sii"
+}
+vehicle_accessory : .hlight {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/head_light/standard.sii"
+}
+vehicle_addon_accessory : .dstep {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/doorstep/shape1.sii"
+}
+vehicle_accessory : .cab {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/cabin/superspace.sii"
+}
+vehicle_addon_accessory : .sunshild {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/sunshld/sunshl_fl.sii"
+}
+vehicle_accessory : .chassis {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/chassis/6x2_taglift.sii"
+}
+vehicle_accessory : .engine {
+	data_path: "/def/vehicle/truck/volvo.fh16/engine/d16g750.sii"
+}
+vehicle_addon_accessory : .badge {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/badge/badge_530.sii"
+}
+vehicle_accessory : .trans {
+	data_path: "/def/vehicle/truck/mercedes.actros/transmission/g280_16_r.sii"
+}
+vehicle_accessory : .interior {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/interior/standard.sii"
+}
+vehicle_paint_job_accessory : .paintjob {
+	mask_r_color: (1.0, 0.0, 0.0)
+	mask_g_color: (0.0, 1.0, 0.0)
+	mask_b_color: (0.0, 0.0, 1.0)
+	flake_color: (0.0, 1.0, 0.0)
+	flip_color: (1.0, 0.0, 0.0)
+	base_color: (&3cea4a8c, &3c8db8bb, &3c378034)
+	data_path: "/def/vehicle/truck/daf.xf_euro6/paint_job/color5.sii"
+}
+vehicle_addon_accessory : .fmirror {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_mirror/shape1.sii"
+}
+vehicle_addon_accessory : .smirror {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/s_mirror/shape1.sii"
+}
+vehicle_addon_accessory : .mirrors {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/mirror/shape2.sii"
+}
+vehicle_addon_accessory : .dhandle {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/doorhndl/shape2.sii"
+}
+vehicle_wheel_accessory : .ftire {
+	offset: 0
+	data_path: "/def/vehicle/f_tire/1.sii"
+}
+vehicle_wheel_accessory : .fdisc {
+	offset: 0
+	data_path: "/def/vehicle/f_disc/front_disc_02_matt_gray.sii"
+}
+vehicle_wheel_accessory : .fhub {
+	offset: 0
+	data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+vehicle_wheel_accessory : .fnuts {
+	offset: 0
+	data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+vehicle_wheel_accessory : .rtire {
+	offset: 0
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .rdisc {
+	offset: 0
+	data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .rhub {
+	offset: 0
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .rnuts {
+	offset: 0
+	data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+vehicle_wheel_accessory : .rtire2 {
+	offset: 2
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .rdisc2 {
+	offset: 2
+	data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .rhub2 {
+	offset: 2
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .rnuts2 {
+	offset: 2
+	data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+vehicle_addon_accessory : .steering_w {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/steering_w/standard.sii"
+}
+vehicle_addon_accessory : .f_intake_cab {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_intake_cab/stock_fl.sii"
+}
+vehicle_addon_accessory : .f_wnd_frame {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_wnd_frame/stock.sii"
+}
+vehicle_addon_accessory : .f_intake_bar {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_intake_bar/stock_fl.sii"
+}
+vehicle_addon_accessory : .f_inlay_cab {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_inlay_cab/stock.sii"
+}
+vehicle_addon_accessory : .f_intake_chs {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_intake_chs/stock_fl.sii"
+}
+vehicle_addon_accessory : .f_inlay_chs {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_inlay_chs/stock.sii"
+}
+vehicle_addon_accessory : .f_fender {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_fender/stock_ext.sii"
+}
+vehicle_addon_accessory : .f_badge {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/f_badge/stock_fl.sii"
+}
+vehicle_addon_accessory : .r_bumper {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/r_bumper/stock_fl.sii"
+}
+vehicle_addon_accessory : .r_mudflap {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/r_mudflap/stock.sii"
+}
+vehicle_addon_accessory : .trlr_cables {
+	data_path: "/def/vehicle/truck/daf.xf_euro6/accessory/trlr_cables/stock.sii"
+}
+}

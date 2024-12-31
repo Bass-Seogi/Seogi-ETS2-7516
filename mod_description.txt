@@ -1,0 +1,14 @@
+﻿[blue]Seogi All Trucks VOLVO 750Hp , Scania 730Hp , 16Transmission
+
+[red]It will function normally from 1.51[normal]
+
+[green]Seogi Engines & Transmissions
+
+As of v1.44, there is a mod refund function.
+If you remove the mod, it goes back to the low speed engine.
+
+v1.42 VOLVO 750 hp engine or Scania 730 hp optional
+Man 16 transmission or Benz 16 transmission optional
+
+v1.41 Engines purchase is available only when single mode is applied, 
+If you tuned it at the time of purchase, Engines disappears.[normal]
