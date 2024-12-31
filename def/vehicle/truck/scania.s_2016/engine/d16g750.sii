@@ -18,5 +18,6 @@ accessory_engine_data : d16g750.scania.s_2016.engine
 
 @include "sound_hi.sui"
 
-	overrides[]: "/def/vehicle/truck/scania.s_2016/badge/s730.sii"}
+	overrides[]: "/def/vehicle/truck/scania.s_2016/badge/s730.sii"
+}
 }

@@ -1,6 +1,6 @@
-﻿[blue]Seogi All Trucks VOLVO 750Hp , Scania 730Hp , 16Transmission
+﻿[blue]Seogi All Trucks VOLVO 780Hp , 750Hp , Scania 730Hp , 16Transmission
 
-[red]It will function normally from 1.51[normal]
+[red]It will function normally from 1.53[normal]
 
 [green]Seogi Engines & Transmissions
 
