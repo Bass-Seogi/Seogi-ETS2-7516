@@ -9,7 +9,7 @@ mod_package : .package_name
 	package_version: "241231"
 
 	# Display name can be any string with any length.
-	# display_name: "Seogi All Trucks 750Hp"
+	display_name: "Seogi All Trucks 780Hp"
 
 	# Author can be any string with any length.
 	author: "Seogi"
